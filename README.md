@@ -84,13 +84,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/muhammadali224/muhammadali224/output/snake.svg" alt="Snake animation" />
-![Snake animation]
-(https://raw.githubusercontent.com/muhammadali224/muhammadali224/output/github-contribution-grid-snake-dark.svg)
-
-
-###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=muhammadali224&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
