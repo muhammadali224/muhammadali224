@@ -85,7 +85,10 @@
 ###
 
 <img src="https://raw.githubusercontent.com/muhammadali224/muhammadali224/output/snake.svg" alt="Snake animation" />
-![Snake animation](https://raw.githubusercontent.com/{username}/{username}/output/github-contribution-grid-snake-dark.svg)
+![Snake animation]
+(https://raw.githubusercontent.com/muhammadali224/muhammadali224/output/github-contribution-grid-snake-dark.svg)
+
+
 ###
 
 <div align="center">
