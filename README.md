@@ -78,7 +78,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥My Stats :</h3>
 
 ###
 
@@ -95,6 +95,13 @@
 
 ###
 
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/muhammadali224/muhammadali224/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/muhammadali224/count.svg?"  />
 </div>
@@ -106,3 +113,15 @@
 </div>
 
 ###
+
+
+
+
+
+
+
+
+
+
+
+
